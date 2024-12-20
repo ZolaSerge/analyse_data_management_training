@@ -1,0 +1,17 @@
+[1] "le mode du Pre-test : 5"
+[1] "le mode du Post-test : 4"
+
+Pre_test :
+* Max : 7
+* Min : 1
+* Quartile 1 : 2,5
+* Mediane : 4
+* Quartile 3 : 5
+
+----------------------------------
+Post_test :
+* Max : 7
+* Min : 2
+* Quartile 1 : 3
+* Mediane : 4
+* Quartile 3 : 5
